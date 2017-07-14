@@ -1,0 +1,50 @@
+#hpt_main
+{
+}
+#hpt_loading
+{
+display:none;
+}
+.hpt_wrap .label
+{
+width: 18em;
+float: left;
+text-align: right;
+margin-right: 0.5em;
+display: block
+}
+.hpt_wrap select
+{
+width: 150px;
+}
+#hpt_iframe
+{
+display:none;
+overflow:hidden;
+}
+#hpt_upload
+{
+display:inline;
+}
+#hpt_files
+{
+display:block;
+}
+#hpt_image
+{
+display: block;
+}
+#hpt_image_live
+{
+display:block;
+}
+
+#hpt_preview
+{
+	float:right;position:absolute;right:8em;top:8em;
+}
+.hpt_red
+{
+color: red;
+}
+
